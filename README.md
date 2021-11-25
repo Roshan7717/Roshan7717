@@ -1,4 +1,4 @@
-### Hi! Roshan here. Analyst by nature, powered by curiosity. Well versed in SQL, Advanced excel, tableau and R 👋
+### Hi! Roshan here. Analyst by nature, powered by curiosity. Well versed in SQL,R, Advanced excel and tableau.
 
 Here are the languages and tools that I use for my data projects: 
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql&logoColor=F29111)
